@@ -357,6 +357,8 @@ Credits
 * [ahmedbodi](//github.com/ahmedbodi/stratum-mining) - more algo adaptions to python code
 * [steveshit](//github.com/steveshit) - ported X11 hashing algo from python to node module
 
+Donations for latest updates here:  bc1qau7u8hwsle24xues43fnd6prpl09srzkh39qfy
+
 
 Donations
 ---------
